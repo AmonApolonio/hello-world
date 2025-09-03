@@ -1,7 +1,7 @@
 # Overview
 HelloWorld program written in Python showing integration with Visual Studio Code and Jupyter Notebook.
 The program was created to demonstrate end-to-end integration with Visual Studio Code and Python.
-[Hello World Demo on YouTube](http://youtube.link.goes.here)
+- [Hello World Demo on YouTube](https://youtu.be/S1QCTQmG1Q0)
 
 # Development Environment
 - Python 3.10
